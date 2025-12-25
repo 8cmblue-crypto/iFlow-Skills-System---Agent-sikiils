@@ -504,7 +504,7 @@ python3 -c "import json; print(json.load(open('config/agent_host_assignment.json
 
 - **文档版本**: 1.0.0
 - **发布日期**: 2025-12-25
-- **维护团队**: iFlow CLI Team
+- **维护团队**: maihh
 - **技术支持**: 通过GitHub Issues或内部渠道
 
 ---
